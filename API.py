@@ -11,8 +11,8 @@ while True:
                 correctcombineterm = "+AND+"
                 break
             if combineterm == "+OR+":
-                    correctcombineterm = "+OR+"
-                    break
+                correctcombineterm = "+OR+"
+                break
             if combineterm == "NOT":
                 correctcombineterm = "+NOT+"
                 break
